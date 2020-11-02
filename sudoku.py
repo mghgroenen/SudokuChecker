@@ -77,3 +77,4 @@ else:
     if sqr_check == False:
         print("Square check failed.")
 
+close = input("Press any key to exit.")
